@@ -1,0 +1,540 @@
+[2111, 2113]    Description:
+
+Looking for a .Net Full Stack Developer role with experience in Front end Scripting (JavaScript, ReactJS/Angular).
+
+Broker Dealer Regulatory Reporting Technology Function is set up to replace legacy systems and processes with efficient technology stack, end-to-end automation of the daily report generation process and data sourcing from approved data source (ADS) there by enabling the firm to calculate the accurate amounts and report the activity to SEC, FINRA. We are currently working on a Modernization effort to upgrade the UI framework on React JS technology and improve the overall user experience. Looking for a motivated .Net Full Stack developer to enhance the UI performance and improve the user productivity by enabling the application to have a quicker data rendering for all types of user queries.
+
+Responsibilities include:
+
+• Develop, Design, Document & Test UI solutions for automating regulatory report generation process for Broker Dealer business
+Perform necessary research to support and enhance new tasks related to .Net, Unix, Pega & Axiom technologies
+
+• Collaborate with other developers on the team to build high-quality reusable code that can be used in the future.
+
+• Understand the current application including the server-side code base structure for speed optimization.
+
+• Ensuring quality standards in terms of usability and security of all the components of the Unix and Application servers.
+
+• Partner well with the Scrum Master, Project Manager, and other Agile team members.
+
+Required Skills:
+
+• Hands-on experience in UI development using JavaScript, HTML and Angular/ReactJS.
+
+• Hands-on experience with Python & Unix Shell Scripting is required.
+Capable of prioritizing multiple projects in order to meet goals without management oversight.
+
+• Good understanding of database such as Oracle with efficient SQL, performance tuning and debugging skills.
+
+• Critical thinking and Problem-solving skills.
+
+• Domain knowledge in Investment Banking/ Regulatory Reporting is a plus.
+
+Skills:
+
+.net, C#, react, Sql, .net core, Javascript
+
+Top Skills Details:
+
+.net,C#,react
+
+Additional Skills & Qualifications:
+NET
+
+Experience Level:
+
+Expert Level
+
+About TEKsystems:
+We're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.
+
+The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+[979, 983]    Description
+
+Role: Java Developer/Lead with AWS experience
+Job Locations: Columbus, OH / Plano, TX/ Wilmington, DE
+
+
+Mandatory Skills: (ex: Sales, Finance, Marketing) Java, AWS, Mockito, websockets, Springboot, J2EE, Python, Banking
+
+Description:
+
+Looking for Strong Sr and Advance skill AWS Developer with Java, must have hands-on experience in building API’s/Microservices and also experience on moving workloads to AWS includes REST and soap.
+Must have 9+ yrs of hands-on AWS experience and development with services like S3, EC2, SQS, SNS, Lambda, EKS, ELB, VPC, RDS, Route 53, DynamoDB etc.
+Experience in transferring API from on-perm to New DC
+Strong experience in deploying API’S into AWS. 
+Experience in unit testing tools like Mockito.
+Experience in websockets
+Ability to do analysis on requirements to come up with a process design for solution.
+AWS Developer / Solution Architect certification is must.
+Experience in engineering in one of the following languages e.g.,Java J2EE technology stack and 
+Web technologies (Python, Go, Perl, Ruby or shell scripting)
+Experience in Spring boot/ Hibernate Frameworks.
+Strong computer science fundamentals such as algorithms, data structures, multithreading, object-oriented development, distributed applications, client-server architecture.
+Experience in Banking domain is plus.
+Experience in leading the team and provide technical, design support and suggestions to the team is preferred.
+Strong experience in using RDBMS (Oracle), Knowledge of No-SQL database technologies, such as Apache Cassandra or Elastic Search, Strong RDBMS understanding; Oracle preferred.
+Experience in using industry standard monitoring tools e.g., AppDynamics, Dynatrace, APICA, Splunk, ELK, FluentD, Prometheus, Kibana, Elasticsearch, Grafana, Nagios, Datadog, New Relic, etc.
+Knowledge on distributed messaging experience such as MQ, Kafka
+CI/CD, experience of using Jenkins/Jules. Experience with project management tools like Jira
+
+[3916, 3945]    job summary:
+Job Description
+
+React Application Developer
+
+Position Description
+
+Serves as a technical expert who provides development and support leadership in the development and delivery of web applications across the Finance, Treasury, and Capital Markets LOBs. The Application Development & Support technical lead acts as the subject matter expert on the UI and API layers for both on-prem and cloud platforms.
+
+This individual may be responsible for a single technical project of medium to high complexity or a group of smaller, unrelated technical projects/break-fix items.
+
+Job Responsibilities
+
+Drive technical development and support for technology objectives and business requirements
+Assist in the creation of project architecture and detailed design documentation per required deliverables.
+
+Lead application development efforts and perform code reviews, work with software vendors, coach developers, and advise teams of Ally standard requirements, security standards, methodology and processes.
+Oversee change and incident management, internal & external audits, disaster recovery, and IAM reviews.
+Participate in proof of concepts to assist in defining technology direction and enabling business strategy
+Participate in defect triage and work with project team/vendors to resolve prioritized defect fixes
+Ensure integrity of new process workflows and transfer knowledge to Sustain and IT Operations teams.
+Work with project management counterparts to deliver broad-based, often complex, communication for internal and/or external audiences
+Partner with Business during design discussions, UAT testing and bug fixes, plan and develop future enhancements
+Plan and Lead Production deployments for scheduled and hotfix releases.
+Work with internal teams to ensure security compliance of the application, identify and remediate security vulnerabilities
+Develop application features to enable Cloud-OnPrem communication between apps.
+Design application features using Cloud products which make the application highly available and scalable.
+Qualifications
+
+7+ years in the application development and support of complex business systems and processes.
+2+ years in the banking domains with special focus on Treasury, Finance, and Capital Markets.
+2+ years of cloud experience with special focus on AWS cloud services. AWS Certifications are an added plus.
+Extensive working in Agile Software Development with 2-3 week sprints.
+Experience in maintaining Infrastructure as Code , working experience in Terraform is an added plus.
+strong experience in in UI development with ReactJs.
+Exposure to Java 8 or above, and relational database such as AWS Aurora.
+strong experience in REST API Design and Development, API Versioning and automated testing
+Clear understanding and working with Container based application deployments. Working knowledge of Docker and AWS ECS is highly preferred.
+Extensive experience in CI/CD Automation tools such as GitLab/Bitbucket/Jenkins.
+Knowledge and understanding of industry trends and new technologies and ability to apply trends to software development
+Ability to think critically and develop high quality project deliverables and ensure technology solution meets requirements
+Knowledge of enterprise platforms and operating systems
+strong leadership skills
+Superior interpersonal and conflict resolution skills
+Ability to negotiate and build consensus with various stakeholder groups
+Analytical approach; strong problem solving and root cause identification skills
+strong communication skills, both written and verbal
+Understanding of Information Security Policy and Procedures
+
+Platform Technical Skills:
+
+ReactJs, Java 8, JavaScript, Spring Framework, JMS
+Spring Boot , Spring Batch, Hibernate, Spring JPA, Spring Cloud
+Oracle/Exadata, SQL Server/SSIS, NiFi, AWS Aurora/PostgreSQL.
+Jira, Confluence, and ServiceNow.
+XML,Shell Scripting,CI/CD tools such as Gitlab,Bitbucket,Jenkins
+AWS Experience in EC2,Route53,ECS,CloudWatch,Secrets Manager,S3,ALB,VPN and Security Groups ,API Gateway,SNS,SQS,Lambda,RDS,Fargate,IAM,SSL,Terraform,(AWS Certifications is a plus).
+ 
+location: Charlotte, North Carolina
+job type: Contract
+salar
+
+[3946, 3953]    job summary:
+Job Description
+
+React Application Developer
+
+Position Description
+
+Serves as a technical expert who provides development and support leadership in the development and delivery of web applications across the Finance, Treasury, and Capital Markets LOBs. The Application Development & Support technical lead acts as the subject matter expert on the UI and API layers for both on-prem and cloud platforms.
+
+This individual may be responsible for a single technical project of medium to high complexity or a group of smaller, unrelated technical projects/break-fix items.
+
+Job Responsibilities
+
+Drive technical development and support for technology objectives and business requirements
+Assist in the creation of project architecture and detailed design documentation per required deliverables.
+
+Lead application development efforts and perform code reviews, work with software vendors, coach developers, and advise teams of Ally standard requirements, security standards, methodology and processes.
+Oversee change and incident management, internal & external audits, disaster recovery, and IAM reviews.
+Participate in proof of concepts to assist in defining technology direction and enabling business strategy
+Participate in defect triage and work with project team/vendors to resolve prioritized defect fixes
+Ensure integrity of new process workflows and transfer knowledge to Sustain and IT Operations teams.
+Work with project management counterparts to deliver broad-based, often complex, communication for internal and/or external audiences
+Partner with Business during design discussions, UAT testing and bug fixes, plan and develop future enhancements
+Plan and Lead Production deployments for scheduled and hotfix releases.
+Work with internal teams to ensure security compliance of the application, identify and remediate security vulnerabilities
+Develop application features to enable Cloud-OnPrem communication between apps.
+Design application features using Cloud products which make the application highly available and scalable.
+Qualifications
+
+7+ years in the application development and support of complex business systems and processes.
+2+ years in the banking domains with special focus on Treasury, Finance, and Capital Markets.
+2+ years of cloud experience with special focus on AWS cloud services. AWS Certifications are an added plus.
+Extensive working in Agile Software Development with 2-3 week sprints.
+Experience in maintaining Infrastructure as Code , working experience in Terraform is an added plus.
+strong experience in in UI development with ReactJs.
+Exposure to Java 8 or above, and relational database such as AWS Aurora.
+strong experience in REST API Design and Development, API Versioning and automated testing
+Clear understanding and working with Container based application deployments. Working knowledge of Docker and AWS ECS is highly preferred.
+Extensive experience in CI/CD Automation tools such as GitLab/Bitbucket/Jenkins.
+Knowledge and understanding of industry trends and new technologies and ability to apply trends to software development
+Ability to think critically and develop high quality project deliverables and ensure technology solution meets requirements
+Knowledge of enterprise platforms and operating systems
+strong leadership skills
+Superior interpersonal and conflict resolution skills
+Ability to negotiate and build consensus with various stakeholder groups
+Analytical approach; strong problem solving and root cause identification skills
+strong communication skills, both written and verbal
+Understanding of Information Security Policy and Procedures
+
+Platform Technical Skills:
+
+ReactJs, Java 8, JavaScript, Spring Framework, JMS
+Spring Boot , Spring Batch, Hibernate, Spring JPA, Spring Cloud
+Oracle/Exadata, SQL Server/SSIS, NiFi, AWS Aurora/PostgreSQL.
+Jira, Confluence, and ServiceNow.
+XML,Shell Scripting,CI/CD tools such as Gitlab,Bitbucket,Jenkins
+AWS Experience in EC2,Route53,ECS,CloudWatch,Secrets Manager,S3,ALB,VPN and Security Groups ,API Gateway,SNS,SQS,Lambda,RDS,Fargate,IAM,SSL,Terraform,(AWS Certifications is a plus).
+ 
+location: Charlotte, North Carolina
+job type: Contract
+salar
+
+[3954, 3957]    job summary:
+Job Description
+
+React Application Developer
+
+Position Description
+
+Serves as a technical expert who provides development and support leadership in the development and delivery of web applications across the Finance, Treasury, and Capital Markets LOBs. The Application Development & Support technical lead acts as the subject matter expert on the UI and API layers for both on-prem and cloud platforms.
+
+This individual may be responsible for a single technical project of medium to high complexity or a group of smaller, unrelated technical projects/break-fix items.
+
+Job Responsibilities
+
+Drive technical development and support for technology objectives and business requirements
+Assist in the creation of project architecture and detailed design documentation per required deliverables.
+
+Lead application development efforts and perform code reviews, work with software vendors, coach developers, and advise teams of Ally standard requirements, security standards, methodology and processes.
+Oversee change and incident management, internal & external audits, disaster recovery, and IAM reviews.
+Participate in proof of concepts to assist in defining technology direction and enabling business strategy
+Participate in defect triage and work with project team/vendors to resolve prioritized defect fixes
+Ensure integrity of new process workflows and transfer knowledge to Sustain and IT Operations teams.
+Work with project management counterparts to deliver broad-based, often complex, communication for internal and/or external audiences
+Partner with Business during design discussions, UAT testing and bug fixes, plan and develop future enhancements
+Plan and Lead Production deployments for scheduled and hotfix releases.
+Work with internal teams to ensure security compliance of the application, identify and remediate security vulnerabilities
+Develop application features to enable Cloud-OnPrem communication between apps.
+Design application features using Cloud products which make the application highly available and scalable.
+Qualifications
+
+7+ years in the application development and support of complex business systems and processes.
+2+ years in the banking domains with special focus on Treasury, Finance, and Capital Markets.
+2+ years of cloud experience with special focus on AWS cloud services. AWS Certifications are an added plus.
+Extensive working in Agile Software Development with 2-3 week sprints.
+Experience in maintaining Infrastructure as Code , working experience in Terraform is an added plus.
+strong experience in in UI development with ReactJs.
+Exposure to Java 8 or above, and relational database such as AWS Aurora.
+strong experience in REST API Design and Development, API Versioning and automated testing
+Clear understanding and working with Container based application deployments. Working knowledge of Docker and AWS ECS is highly preferred.
+Extensive experience in CI/CD Automation tools such as GitLab/Bitbucket/Jenkins.
+Knowledge and understanding of industry trends and new technologies and ability to apply trends to software development
+Ability to think critically and develop high quality project deliverables and ensure technology solution meets requirements
+Knowledge of enterprise platforms and operating systems
+strong leadership skills
+Superior interpersonal and conflict resolution skills
+Ability to negotiate and build consensus with various stakeholder groups
+Analytical approach; strong problem solving and root cause identification skills
+strong communication skills, both written and verbal
+Understanding of Information Security Policy and Procedures
+
+Platform Technical Skills:
+
+ReactJs, Java 8, JavaScript, Spring Framework, JMS
+Spring Boot , Spring Batch, Hibernate, Spring JPA, Spring Cloud
+Oracle/Exadata, SQL Server/SSIS, NiFi, AWS Aurora/PostgreSQL.
+Jira, Confluence, and ServiceNow.
+XML,Shell Scripting,CI/CD tools such as Gitlab,Bitbucket,Jenkins
+AWS Experience in EC2,Route53,ECS,CloudWatch,Secrets Manager,S3,ALB,VPN and Security Groups ,API Gateway,SNS,SQS,Lambda,RDS,Fargate,IAM,SSL,Terraform,(AWS Certifications is a plus).
+ 
+location: Charlotte, North Carolina
+job type: Contract
+salar
+
+[3985, 3987]    job summary:
+Job Description
+
+React Application Developer
+
+Position Description
+
+Serves as a technical expert who provides development and support leadership in the development and delivery of web applications across the Finance, Treasury, and Capital Markets LOBs. The Application Development & Support technical lead acts as the subject matter expert on the UI and API layers for both on-prem and cloud platforms.
+
+This individual may be responsible for a single technical project of medium to high complexity or a group of smaller, unrelated technical projects/break-fix items.
+
+Job Responsibilities
+
+Drive technical development and support for technology objectives and business requirements
+Assist in the creation of project architecture and detailed design documentation per required deliverables.
+
+Lead application development efforts and perform code reviews, work with software vendors, coach developers, and advise teams of Ally standard requirements, security standards, methodology and processes.
+Oversee change and incident management, internal & external audits, disaster recovery, and IAM reviews.
+Participate in proof of concepts to assist in defining technology direction and enabling business strategy
+Participate in defect triage and work with project team/vendors to resolve prioritized defect fixes
+Ensure integrity of new process workflows and transfer knowledge to Sustain and IT Operations teams.
+Work with project management counterparts to deliver broad-based, often complex, communication for internal and/or external audiences
+Partner with Business during design discussions, UAT testing and bug fixes, plan and develop future enhancements
+Plan and Lead Production deployments for scheduled and hotfix releases.
+Work with internal teams to ensure security compliance of the application, identify and remediate security vulnerabilities
+Develop application features to enable Cloud-OnPrem communication between apps.
+Design application features using Cloud products which make the application highly available and scalable.
+Qualifications
+
+7+ years in the application development and support of complex business systems and processes.
+2+ years in the banking domains with special focus on Treasury, Finance, and Capital Markets.
+2+ years of cloud experience with special focus on AWS cloud services. AWS Certifications are an added plus.
+Extensive working in Agile Software Development with 2-3 week sprints.
+Experience in maintaining Infrastructure as Code , working experience in Terraform is an added plus.
+strong experience in in UI development with ReactJs.
+Exposure to Java 8 or above, and relational database such as AWS Aurora.
+strong experience in REST API Design and Development, API Versioning and automated testing
+Clear understanding and working with Container based application deployments. Working knowledge of Docker and AWS ECS is highly preferred.
+Extensive experience in CI/CD Automation tools such as GitLab/Bitbucket/Jenkins.
+Knowledge and understanding of industry trends and new technologies and ability to apply trends to software development
+Ability to think critically and develop high quality project deliverables and ensure technology solution meets requirements
+Knowledge of enterprise platforms and operating systems
+strong leadership skills
+Superior interpersonal and conflict resolution skills
+Ability to negotiate and build consensus with various stakeholder groups
+Analytical approach; strong problem solving and root cause identification skills
+strong communication skills, both written and verbal
+Understanding of Information Security Policy and Procedures
+
+Platform Technical Skills:
+
+ReactJs, Java 8, JavaScript, Spring Framework, JMS
+Spring Boot , Spring Batch, Hibernate, Spring JPA, Spring Cloud
+Oracle/Exadata, SQL Server/SSIS, NiFi, AWS Aurora/PostgreSQL.
+Jira, Confluence, and ServiceNow.
+XML,Shell Scripting,CI/CD tools such as Gitlab,Bitbucket,Jenkins
+AWS Experience in EC2,Route53,ECS,CloudWatch,Secrets Manager,S3,ALB,VPN and Security Groups ,API Gateway,SNS,SQS,Lambda,RDS,Fargate,IAM,SSL,Terraform,(AWS Certifications is a plus).
+ 
+location: Charlotte, North Carolina
+job type: Contract
+salar
+
+[3988, 3991]    job summary:
+Job Description
+
+React Application Developer
+
+Position Description
+
+Serves as a technical expert who provides development and support leadership in the development and delivery of web applications across the Finance, Treasury, and Capital Markets LOBs. The Application Development & Support technical lead acts as the subject matter expert on the UI and API layers for both on-prem and cloud platforms.
+
+This individual may be responsible for a single technical project of medium to high complexity or a group of smaller, unrelated technical projects/break-fix items.
+
+Job Responsibilities
+
+Drive technical development and support for technology objectives and business requirements
+Assist in the creation of project architecture and detailed design documentation per required deliverables.
+
+Lead application development efforts and perform code reviews, work with software vendors, coach developers, and advise teams of Ally standard requirements, security standards, methodology and processes.
+Oversee change and incident management, internal & external audits, disaster recovery, and IAM reviews.
+Participate in proof of concepts to assist in defining technology direction and enabling business strategy
+Participate in defect triage and work with project team/vendors to resolve prioritized defect fixes
+Ensure integrity of new process workflows and transfer knowledge to Sustain and IT Operations teams.
+Work with project management counterparts to deliver broad-based, often complex, communication for internal and/or external audiences
+Partner with Business during design discussions, UAT testing and bug fixes, plan and develop future enhancements
+Plan and Lead Production deployments for scheduled and hotfix releases.
+Work with internal teams to ensure security compliance of the application, identify and remediate security vulnerabilities
+Develop application features to enable Cloud-OnPrem communication between apps.
+Design application features using Cloud products which make the application highly available and scalable.
+Qualifications
+
+7+ years in the application development and support of complex business systems and processes.
+2+ years in the banking domains with special focus on Treasury, Finance, and Capital Markets.
+2+ years of cloud experience with special focus on AWS cloud services. AWS Certifications are an added plus.
+Extensive working in Agile Software Development with 2-3 week sprints.
+Experience in maintaining Infrastructure as Code , working experience in Terraform is an added plus.
+strong experience in in UI development with ReactJs.
+Exposure to Java 8 or above, and relational database such as AWS Aurora.
+strong experience in REST API Design and Development, API Versioning and automated testing
+Clear understanding and working with Container based application deployments. Working knowledge of Docker and AWS ECS is highly preferred.
+Extensive experience in CI/CD Automation tools such as GitLab/Bitbucket/Jenkins.
+Knowledge and understanding of industry trends and new technologies and ability to apply trends to software development
+Ability to think critically and develop high quality project deliverables and ensure technology solution meets requirements
+Knowledge of enterprise platforms and operating systems
+strong leadership skills
+Superior interpersonal and conflict resolution skills
+Ability to negotiate and build consensus with various stakeholder groups
+Analytical approach; strong problem solving and root cause identification skills
+strong communication skills, both written and verbal
+Understanding of Information Security Policy and Procedures
+
+Platform Technical Skills:
+
+ReactJs, Java 8, JavaScript, Spring Framework, JMS
+Spring Boot , Spring Batch, Hibernate, Spring JPA, Spring Cloud
+Oracle/Exadata, SQL Server/SSIS, NiFi, AWS Aurora/PostgreSQL.
+Jira, Confluence, and ServiceNow.
+XML,Shell Scripting,CI/CD tools such as Gitlab,Bitbucket,Jenkins
+AWS Experience in EC2,Route53,ECS,CloudWatch,Secrets Manager,S3,ALB,VPN and Security Groups ,API Gateway,SNS,SQS,Lambda,RDS,Fargate,IAM,SSL,Terraform,(AWS Certifications is a plus).
+ 
+location: Charlotte, North Carolina
+job type: Contract
+salar
+
+[4064, 4073]    job summary:
+Job Description
+
+React Application Developer
+
+Position Description
+
+Serves as a technical expert who provides development and support leadership in the development and delivery of web applications across the Finance, Treasury, and Capital Markets LOBs. The Application Development & Support technical lead acts as the subject matter expert on the UI and API layers for both on-prem and cloud platforms.
+
+This individual may be responsible for a single technical project of medium to high complexity or a group of smaller, unrelated technical projects/break-fix items.
+
+Job Responsibilities
+
+Drive technical development and support for technology objectives and business requirements
+Assist in the creation of project architecture and detailed design documentation per required deliverables.
+
+Lead application development efforts and perform code reviews, work with software vendors, coach developers, and advise teams of Ally standard requirements, security standards, methodology and processes.
+Oversee change and incident management, internal & external audits, disaster recovery, and IAM reviews.
+Participate in proof of concepts to assist in defining technology direction and enabling business strategy
+Participate in defect triage and work with project team/vendors to resolve prioritized defect fixes
+Ensure integrity of new process workflows and transfer knowledge to Sustain and IT Operations teams.
+Work with project management counterparts to deliver broad-based, often complex, communication for internal and/or external audiences
+Partner with Business during design discussions, UAT testing and bug fixes, plan and develop future enhancements
+Plan and Lead Production deployments for scheduled and hotfix releases.
+Work with internal teams to ensure security compliance of the application, identify and remediate security vulnerabilities
+Develop application features to enable Cloud-OnPrem communication between apps.
+Design application features using Cloud products which make the application highly available and scalable.
+Qualifications
+
+7+ years in the application development and support of complex business systems and processes.
+2+ years in the banking domains with special focus on Treasury, Finance, and Capital Markets.
+2+ years of cloud experience with special focus on AWS cloud services. AWS Certifications are an added plus.
+Extensive working in Agile Software Development with 2-3 week sprints.
+Experience in maintaining Infrastructure as Code , working experience in Terraform is an added plus.
+strong experience in in UI development with ReactJs.
+Exposure to Java 8 or above, and relational database such as AWS Aurora.
+strong experience in REST API Design and Development, API Versioning and automated testing
+Clear understanding and working with Container based application deployments. Working knowledge of Docker and AWS ECS is highly preferred.
+Extensive experience in CI/CD Automation tools such as GitLab/Bitbucket/Jenkins.
+Knowledge and understanding of industry trends and new technologies and ability to apply trends to software development
+Ability to think critically and develop high quality project deliverables and ensure technology solution meets requirements
+Knowledge of enterprise platforms and operating systems
+strong leadership skills
+Superior interpersonal and conflict resolution skills
+Ability to negotiate and build consensus with various stakeholder groups
+Analytical approach; strong problem solving and root cause identification skills
+strong communication skills, both written and verbal
+Understanding of Information Security Policy and Procedures
+
+Platform Technical Skills:
+
+ReactJs, Java 8, JavaScript, Spring Framework, JMS
+Spring Boot , Spring Batch, Hibernate, Spring JPA, Spring Cloud
+Oracle/Exadata, SQL Server/SSIS, NiFi, AWS Aurora/PostgreSQL.
+Jira, Confluence, and ServiceNow.
+XML,Shell Scripting,CI/CD tools such as Gitlab,Bitbucket,Jenkins
+AWS Experience in EC2,Route53,ECS,CloudWatch,Secrets Manager,S3,ALB,VPN and Security Groups ,API Gateway,SNS,SQS,Lambda,RDS,Fargate,IAM,SSL,Terraform,(AWS Certifications is a plus).
+ 
+location: Charlotte, North Carolina
+job type: Contract
+salar
+
+[1850, 1867]    Lab49 has an opportunity available for a Python Developer to lead work on complex and challenging projects to drive transformative change for our top tier Financial Services clients. Operating in an Agile environment, the Python Developer will work on building the next generation financial systems.
+The Python Developer will build microservices and systems that allow financial firms process various data streams, using streaming/Messaging/REST technologies. The Python Developer will utilize technologies to create high quality, scalable services, that can be deployed consistently, using technologies like: Consul, Docker, Kubernetes, Kafka, Spark.
+REQUIRED SKILLS AND EXPERIENCE
+5+ years of commercial-grade development experience with complex applications.
+Experience in idiomatic Python 3.4+
+Experience with Django Framework
+Experience in OOP/functional coding in Python
+Understanding of multithreading/multiprocessing in Python.
+Understanding of Generators and asynchronous operations in Python.
+Knowledge of advanced language features in Python: context managers, decorators, descriptors.
+Experience of Virtual environment (venv).
+Experience with Agile development in Python.
+Experience with Testing in Python (Behave, PyTest).
+Real-world knowledge in microservices architecture.
+Experience with data modeling.
+Experience/knowledge of Databases (SQL, MongoDB, key:value).
+Experience in Messaging/streaming/REST API’s.
+Strong interpersonal and organizational skills are required
+Bachelors or Masters in Computer Science, Engineering, Physics, Math, or related work experience.
+DESIRED SKILLS AND EXPERIENCE
+Knowledge of, and strong demonstrated interest in, global financial markets and financial products.
+Experience with big data (Hadoop ecosystem)
+Experience in machine learning/Data science
+Experience with Numpy/Pandas
+Solid knowledge of modern JavaScript(ES6) or Java
+We are hiring across multiple levels for this job.
+The base salary range across different levels are -
+Early career – $50,000 - $80,000
+Early to mid level – $75,000 - $165,000
+Mid to Senior level – $140,000 - $210,000
+Placement within the range provided above is based on the individual’s relevant experience and skills for the role and level.We are hiring across multiple levels for this job.
+
+Base salary is only one component of our total compensation package. Employees may be eligible for a discretionary bonus, which is determined upon company and individual performance.
+Salary range disclosure as required by S9427A when hiring in New York.
+
+Lab49/ION is committed to maintaining a supportive and inclusive environment for people with diverse backgrounds and experiences. We respect the varied identities, abilities, cultures, and traditions of the individuals who comprise our organization and recognize the value that different backgrounds and points of view bring to our business.
+Lab49/ION adheres to an equal employment opportunity policy that prohibits discriminatory practices or harassment against applicants or employees based on any legally impermissible factor.
+
+[2677, 2702]    The Network Engineer is responsible for developing, designing, planning and building Networks along with integrating networks with client networks. This position works with cross functional teams to communicate the engineering design plan in support of the development and deployment of network plans, upgrades and enhancements. Other duties as assigned.
+
+JOB RESPONSIBILITIES:
+
+Works with new architectures and product introduction to make them standard implemented solutions in the network. Assists other Network Engineering teams in the analysis and diagnosis of problems.
+Remains current on IP and security products, standards and practices.
+Monitors system performance and analyzes workload, including traffic and utilization trends..
+Participates in multiple network projects simultaneously while maintaining daily operational excellence for all Cotiviti networks. Analyzes network security and threats, as well as, remediates LAN and WAN vulnerabilities by the use of industry leading tools.
+Researches, tests, evaluates, and recommends telecommunications and data network systems. Seeks continual performance improvements within a highly secure environment.
+Supports and maintains the highest network security level throughout the Cotiviti environment. Other duties as assigned.
+
+REQUIREMENTS:
+
+Excellent network administration and troubleshooting skills.
+Good Understanding and troubleshooting skills of TCP/IP, Switching &Routing protocols, Load balancing
+Knowledge and experience in HSRP, VLAN, QoS and other switching technologies
+Good Knowledge & Hands on experience on Palo Alto Firewalls and Cisco, Juniper
+Good Knowledge and experience on Meraki Wireless Cloud
+Ability to understand the design and provide suggestion for improvements
+Excellent analytical and organizational skills and the ability to work with multiple geographically dispersed teams
+Excellent listening skills & ability to communicate clearly and fluently in English
+Strong team player with a constructive perspective and commitment to the success of the business
+Ability to work on multiple concurrent tasks with conflicting priorities
+Experience with firewalls, Internet VPN’s remote implementation, troubleshooting, and problem resolution is desired
+Ability to implement, administer, and troubleshoot network infrastructure devices.
+Ability to quickly learn technologies and products using documentation and internet resources.
+Ability to work with all levels of IT staff inside and outside the organization
+Pro-actively monitor the network infrastructure and react to any problem round the clock.
+Strong Knowledge on Network Routing, Switching
+
+Product knowledge:
+
+
+Routing Protocols, BGP, EIGRP/OSPF
+Switching SVI(VLANs), Ether Channel, MSTP, LACP
+Cisco Routers -- 7200, 9200,9300,
+Firewalls – Palo Alto, Cisco ASA,
+Security -- IDS, IPS
+VPN – Site to Site, DM VPN, SSL VPN
+Switches -- Nexus 9K/7K/2K, Cisco 6500/9200
+WLAN – Meraki
+SD-WAN
+Cisco ACI using Spine-Leaf
+
+Good-To-Have:
+
+CCNA / CCNP
+
+
