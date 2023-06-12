@@ -1,1 +1,8 @@
-# Resume_Ranking_Spacy-NER
+# Resume_Ranking_SpaCy-NER
+In today's competitive job market, finding the perfect candidate can be a time-consuming and challenging task for recruiters. That's where this project comes in. I have developed an innovative Resume Ranking System that utilizes the power of Spacy, a leading natural language processing library, to automatically rank resumes based on the extraction of named entities from both the resume and the job description. These entities are then compared, and a similarity score is assigned to each resume, enabling efficient and accurate candidate evaluation.
+
+Our system leverages Spacy's advanced entity recognition capabilities to identify and extract relevant information from both resumes and job descriptions. By extracting named entities such as skills, qualifications, experience, and education, we can capture the key attributes necessary for a specific position. This allows us to build a comprehensive profile of each candidate and job requirement.
+
+Once the named entities are extracted, our system calculates a similarity score between the resume and the job description. This score represents the degree of alignment between the candidate's skills and the requirements of the position. The higher the similarity score, the more suitable the candidate is for the role.
+
+By utilizing Spacy's robust NLP capabilities, our Resume Ranking System goes beyond simple keyword matching. It considers the context and relationships between the named entities, providing a more accurate assessment of a candidate's suitability for the job. This approach ensures that the ranking process is fair, efficient, and aligned with the specific requirements of each position.
