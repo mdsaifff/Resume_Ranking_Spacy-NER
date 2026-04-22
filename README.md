@@ -1,8 +1,33 @@
-# Resume_Ranking_SpaCy-NER
-In today's competitive job market, finding the perfect candidate can be a time-consuming and challenging task for recruiters. That's where this project comes in. I have developed an innovative Resume Ranking System that utilizes the power of Spacy, a leading natural language processing library, to automatically rank resumes based on the extraction of named entities from both the resume and the job description. These entities are then compared, and a similarity score is assigned to each resume, enabling efficient and accurate candidate evaluation.
+# Resume Ranking using SpaCy NER
 
-Our system leverages Spacy's advanced entity recognition capabilities to identify and extract relevant information from both resumes and job descriptions. By extracting named entities such as skills, qualifications, experience, and education, we can capture the key attributes necessary for a specific position. This allows us to build a comprehensive profile of each candidate and job requirement.
+This project explores a simple approach to ranking resumes against a given job description using Named Entity Recognition (NER) with SpaCy.
 
-Once the named entities are extracted, our system calculates a similarity score between the resume and the job description. This score represents the degree of alignment between the candidate's skills and the requirements of the position. The higher the similarity score, the more suitable the candidate is for the role.
+The core idea is to move beyond basic keyword matching and instead compare structured information extracted from both resumes and job descriptions. Using SpaCy, the system identifies relevant entities such as skills, qualifications, experience, and education, and uses these to estimate how well a candidate matches a role.
 
-By utilizing Spacy's robust NLP capabilities, our Resume Ranking System goes beyond simple keyword matching. It considers the context and relationships between the named entities, providing a more accurate assessment of a candidate's suitability for the job. This approach ensures that the ranking process is fair, efficient, and aligned with the specific requirements of each position.
+## How it works
+
+The pipeline is straightforward:
+
+- Parse resumes and job descriptions as raw text
+- Use SpaCy’s NER to extract relevant entities
+- Normalize and group extracted information (e.g., skills, degrees, roles)
+- Compare the extracted entities between resume and job description
+- Compute a similarity score to rank candidates
+
+Instead of treating text as a flat bag of words, this approach focuses on *what* information is present and how it aligns with the job requirements.
+
+## Why this approach
+
+Traditional keyword-based systems often fail when:
+- Different terms are used for the same skill
+- Context matters (e.g., “worked with Python” vs “expert in Python”)
+- Important information is embedded in unstructured text
+
+By using NER, we attempt to capture more meaningful signals from the data. While this is still a simplified model and not production-ready, it demonstrates how structured information extraction can improve resume screening.
+
+## Limitations
+
+This is an experimental project and has a few limitations:
+- SpaCy’s default NER model is not fully optimized for resume-specific entities
+- Entity extraction may miss domain-specific skills or misclassify terms
+- Similarity scoring is relatively simple and can be improved with more advanced methods (e.g., embeddings or semantic similarity)
