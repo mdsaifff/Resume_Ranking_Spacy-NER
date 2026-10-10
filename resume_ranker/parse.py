@@ -126,7 +126,8 @@ def resume_profile(name: str, text: str, ents: dict[str, list[str]], dict_skills
 
 
 def jd_profile(name: str, text: str, ents: dict[str, list[str]], dict_skills: list[str]) -> Profile:
-    reqs = [y for e in ents.get("EXPERIENCE", []) if (y := required_years(e)) is not None]
+    exp = ents.get("EXPERIENCE") or [ln for ln in text.splitlines() if "experience" in ln.casefold()]
+    reqs = [y for e in exp if (y := required_years(e)) is not None]
     levels = [lvl for d in ents.get("DEGREE", []) for lvl in degree_levels(d)]
     return Profile(
         name, text,

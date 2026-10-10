@@ -140,3 +140,9 @@ def test_parse_resume_adds_skills_mentioned_in_job_descriptions():
     nlp.add_pipe("entity_ruler").add_patterns([{"label": "SKILLS", "pattern": "Python"}])
     cv = parse_resume(nlp, "cv.txt", "Top Skills\nPython\nDeployed services with Docker and Kubernetes on AWS.")
     assert cv.skills == ["python", "docker", "kubernetes", "aws"]
+
+
+def test_jd_profile_reads_years_from_text_when_ner_misses_them():
+    text = "Requirements:\n- 3+ years of professional experience in backend\n- Founded 20 years ago"
+    assert jd_profile("jd.txt", text, {}, []).years == 3
+    assert jd_profile("jd.txt", "Founded 20 years ago", {}, []).years is None
