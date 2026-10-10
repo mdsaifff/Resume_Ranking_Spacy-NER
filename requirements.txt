@@ -1,0 +1,7 @@
+spacy>=3.8,<3.9
+pymupdf>=1.24.3
+sentence-transformers>=3.0
+huggingface_hub>=0.24
+streamlit>=1.40
+pandas>=2.0
+pytest>=8.0

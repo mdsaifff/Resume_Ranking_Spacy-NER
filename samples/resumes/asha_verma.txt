@@ -1,0 +1,24 @@
+Contact
+asha.verma@example.com
+www.linkedin.com/in/asha-verma-example (LinkedIn)
+Top Skills
+Python
+Django
+PostgreSQL
+Asha Verma
+Senior Backend Engineer
+Pune, Maharashtra, India
+Summary
+Backend engineer building high-traffic REST APIs with Python, Django and FastAPI.
+Experience
+Finlytics
+Senior Backend Engineer
+January 2021 - Present (3 years 9 months)
+Designed REST APIs in Django and FastAPI backed by PostgreSQL and Redis, deployed with Docker and Kubernetes on AWS. Set up CI/CD with GitHub Actions.
+Cartwise
+Software Engineer
+July 2019 - December 2020 (1 year 6 months)
+Built Python microservices and Celery task queues.
+Education
+University of Pune
+Bachelor of Engineering - BE, Computer Engineering · (2015 - 2019)

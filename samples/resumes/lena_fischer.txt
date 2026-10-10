@@ -1,0 +1,20 @@
+Contact
+lena.fischer@example.com
+www.linkedin.com/in/lena-fischer-example (LinkedIn)
+Top Skills
+Python
+Machine Learning
+Pandas
+Lena Fischer
+Data Scientist
+Berlin, Germany
+Summary
+Data scientist building machine learning models and data pipelines in Python.
+Experience
+Retailytics GmbH
+Data Scientist
+April 2020 - Present (4 years 6 months)
+Built forecasting models with scikit-learn and PyTorch, data pipelines with Pandas and SQL, served models through Flask APIs.
+Education
+Technical University of Munich
+Master's degree, Data Science · (2018 - 2020)
