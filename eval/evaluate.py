@@ -73,6 +73,7 @@ def cmd_pool(args):
         rest = [n for n in cvs if n not in pool]
         rng.shuffle(rest)
         pool += rest[: POOL_SIZE - len(pool)]
+        rng.shuffle(pool)  # blind the labeler to which system picked each resume
         (POOL / f"{jd_name.replace(':', '_')}.txt").write_text(jd.text, encoding="utf-8")
         entry = labels.setdefault(jd_name, {})
         for n in pool:
