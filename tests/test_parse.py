@@ -2,9 +2,10 @@ import pymupdf
 import pytest
 import spacy
 
+from resume_ranker import parse
 from resume_ranker.parse import (
-    canonical_skill, degree_levels, dictionary_skills, duration_years, jd_profile, read_all, read_text,
-    required_years, resume_profile,
+    canonical_skill, degree_levels, dictionary_skills, duration_years, entities, jd_profile, parse_jd,
+    read_all, read_text, required_years, resume_profile,
 )
 
 
@@ -112,3 +113,23 @@ def test_jd_profile_merges_dictionary_skills_and_reads_requirements():
     assert p.titles == ["Backend Engineer"]
     assert p.years == 3
     assert p.degree == 2
+
+
+def test_entities_and_parse_jd_with_rule_based_nlp():
+    nlp = spacy.blank("en")
+    nlp.add_pipe("entity_ruler").add_patterns([
+        {"label": "SKILLS", "pattern": "Python"},
+        {"label": "JOBPOST", "pattern": "Data Engineer"},
+        {"label": "EXPERIENCE", "pattern": "3+ years"},
+    ])
+    text = "Data Engineer with 3+ years of Python and Docker"
+    assert entities(nlp, text) == {"JOBPOST": ["Data Engineer"], "EXPERIENCE": ["3+ years"], "SKILLS": ["Python"]}
+    jd = parse_jd(nlp, "jd.txt", text)
+    assert (jd.skills, jd.titles, jd.years) == (["python", "docker"], ["Data Engineer"], 3)
+
+
+def test_load_nlp_explains_how_to_get_missing_model(tmp_path, monkeypatch):
+    monkeypatch.setattr(parse, "MODELS_DIR", tmp_path)
+    monkeypatch.delenv("RESUME_RANKER_HF_REPO", raising=False)
+    with pytest.raises(FileNotFoundError, match="python -m resume_ranker train resume"):
+        parse.load_nlp("resume")

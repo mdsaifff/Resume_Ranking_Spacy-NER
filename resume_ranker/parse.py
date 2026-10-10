@@ -1,6 +1,8 @@
 """Text extraction, NER, and normalization of resumes and job descriptions into Profiles."""
 import json
+import os
 import re
+from collections import defaultdict
 from collections.abc import Iterable
 from dataclasses import dataclass, field
 from functools import cache
@@ -11,6 +13,7 @@ import spacy
 from spacy.matcher import PhraseMatcher
 
 PKG = Path(__file__).parent
+MODELS_DIR = Path(os.environ.get("RESUME_RANKER_MODELS", PKG.parent / "models"))
 
 
 @dataclass
@@ -133,3 +136,31 @@ def jd_profile(name: str, text: str, ents: dict[str, list[str]], dict_skills: li
         degree=min(levels, default=None),  # lowest acceptable degree
         ents=ents,
     )
+
+
+def load_nlp(kind: str) -> spacy.Language:
+    path = MODELS_DIR / kind / "model-best"
+    if not path.exists() and (repo := os.environ.get("RESUME_RANKER_HF_REPO")):
+        from huggingface_hub import snapshot_download
+        snapshot_download(repo, allow_patterns=[f"{kind}/model-best/*"], local_dir=MODELS_DIR)
+    if not path.exists():
+        raise FileNotFoundError(
+            f"No {kind} model at {path}. Run: python -m resume_ranker train {kind} "
+            "(or set RESUME_RANKER_HF_REPO to download it)"
+        )
+    return spacy.load(path)
+
+
+def entities(nlp: spacy.Language, text: str) -> dict[str, list[str]]:
+    ents = defaultdict(list)
+    for ent in nlp(text).ents:
+        ents[ent.label_].append(" ".join(ent.text.split()))
+    return dict(ents)
+
+
+def parse_resume(nlp: spacy.Language, name: str, text: str) -> Profile:
+    return resume_profile(name, text, entities(nlp, text))
+
+
+def parse_jd(nlp: spacy.Language, name: str, text: str) -> Profile:
+    return jd_profile(name, text, entities(nlp, text), dictionary_skills(nlp, text))
