@@ -1,0 +1,16 @@
+Senior Python Backend Engineer
+
+We are looking for a Senior Python Backend Engineer to build and scale the APIs behind our analytics platform.
+
+Requirements:
+- 3+ years of professional experience in backend development
+- Strong Python skills with Django or FastAPI
+- Experience designing REST APIs
+- Solid knowledge of PostgreSQL and Redis
+- Hands-on experience with Docker and Kubernetes
+- Familiarity with AWS and CI/CD pipelines
+- Bachelor's degree in Computer Science or a related field
+
+Nice to have:
+- Experience with Celery and message queues
+- Exposure to machine learning pipelines

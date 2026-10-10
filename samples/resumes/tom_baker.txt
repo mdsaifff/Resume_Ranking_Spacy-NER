@@ -1,0 +1,17 @@
+Contact
+tom.baker@example.com
+www.linkedin.com/in/tom-baker-example (LinkedIn)
+Top Skills
+React
+JavaScript
+CSS
+Tom Baker
+Frontend Developer
+Manchester, United Kingdom
+Summary
+Frontend developer focused on accessible React interfaces.
+Experience
+Pixel Foundry
+Junior Frontend Developer
+September 2023 - Present (1 year 1 month)
+Built React components with TypeScript, HTML and CSS.

@@ -37,7 +37,7 @@
   "azure": ["microsoft azure"],
   "gcp": ["google cloud", "google cloud platform"],
   "linux": [],
-  "ci/cd": ["cicd", "ci cd"],
+  "ci/cd": ["cicd", "ci cd", "ci/cd pipeline", "ci/cd pipelines"],
   "jenkins": [],
   "celery": [],
   "machine learning": ["ml"],

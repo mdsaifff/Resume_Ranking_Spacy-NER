@@ -111,12 +111,12 @@ def _dedupe(items) -> list[str]:
     return [s for s in dict.fromkeys(items) if s]
 
 
-def resume_profile(name: str, text: str, ents: dict[str, list[str]]) -> Profile:
+def resume_profile(name: str, text: str, ents: dict[str, list[str]], dict_skills: Iterable[str] = ()) -> Profile:
     durations = ents.get("YEARS OF EXPERIENCE", [])
     levels = [lvl for d in ents.get("DEGREE", []) for lvl in degree_levels(d)]
     return Profile(
         name, text,
-        skills=_dedupe(canonical_skill(s) for s in ents.get("SKILLS", [])),
+        skills=_dedupe([canonical_skill(s) for s in ents.get("SKILLS", [])] + list(dict_skills)),
         titles=_dedupe(ents.get("WORKED AS", []) + ents.get("DESIGNATION", [])),
         # ponytail: overlapping jobs double-count; merge date ranges if that skews rankings
         years=sum(map(duration_years, durations)) if durations else None,
@@ -159,7 +159,7 @@ def entities(nlp: spacy.Language, text: str) -> dict[str, list[str]]:
 
 
 def parse_resume(nlp: spacy.Language, name: str, text: str) -> Profile:
-    return resume_profile(name, text, entities(nlp, text))
+    return resume_profile(name, text, entities(nlp, text), dictionary_skills(nlp, text))
 
 
 def parse_jd(nlp: spacy.Language, name: str, text: str) -> Profile:
